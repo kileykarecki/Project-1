@@ -1,0 +1,160 @@
+,year,month,state_name,data_value
+0,2021,December,Alaska,255
+1,2022,December,Alaska,247
+2,2023,December,Alaska,357
+3,2021,December,Alabama,1333
+4,2022,December,Alabama,1452
+5,2023,December,Alabama,1598
+6,2021,December,Arkansas,627
+7,2022,December,Arkansas,591
+8,2023,December,Arkansas,517
+9,2021,December,Arizona,2780
+10,2022,December,Arizona,2737
+11,2023,December,Arizona,2720
+12,2021,December,California,11398
+13,2022,December,California,11761
+14,2023,December,California,12367
+15,2021,December,Colorado,1917
+16,2022,December,Colorado,1856
+17,2023,December,Colorado,1926
+18,2021,December,Connecticut,1562
+19,2022,December,Connecticut,1476
+20,2023,December,Connecticut,1330
+21,2021,December,District of Columbia,541
+22,2022,December,District of Columbia,575
+23,2023,December,District of Columbia,635
+24,2021,December,Delaware,502
+25,2022,December,Delaware,544
+26,2023,December,Delaware,527
+27,2021,December,Florida,8163
+28,2022,December,Florida,7894
+29,2023,December,Florida,7329
+30,2021,December,Georgia,2438
+31,2022,December,Georgia,2619
+32,2023,December,Georgia,2520
+33,2021,December,Hawaii,267
+34,2022,December,Hawaii,283
+35,2023,December,Hawaii,321
+36,2021,December,Iowa,471
+37,2022,December,Iowa,473
+38,2023,December,Iowa,446
+39,2021,December,Idaho,345
+40,2022,December,Idaho,362
+41,2023,December,Idaho,367
+42,2021,December,Illinois,3786
+43,2022,December,Illinois,3863
+44,2023,December,Illinois,3537
+45,2021,December,Indiana,2789
+46,2022,December,Indiana,2666
+47,2023,December,Indiana,2193
+48,2021,December,Kansas,682
+49,2022,December,Kansas,755
+50,2023,December,Kansas,641
+51,2021,December,Kentucky,2397
+52,2022,December,Kentucky,2309
+53,2023,December,Kentucky,2130
+54,2021,December,Louisiana,2512
+55,2022,December,Louisiana,2433
+56,2023,December,Louisiana,2254
+57,2021,December,Massachusetts,2555
+58,2022,December,Massachusetts,2647
+59,2023,December,Massachusetts,2380
+60,2021,December,Maryland,2724
+61,2022,December,Maryland,2523
+62,2023,December,Maryland,2493
+63,2021,December,Maine,620
+64,2022,December,Maine,706
+65,2023,December,Maine,593
+66,2021,December,Michigan,3092
+67,2022,December,Michigan,2969
+68,2023,December,Michigan,2885
+69,2021,December,Minnesota,1344
+70,2022,December,Minnesota,1392
+71,2023,December,Minnesota,1341
+72,2021,December,Missouri,2195
+73,2022,December,Missouri,2212
+74,2023,December,Missouri,2014
+75,2021,December,Mississippi,746
+76,2022,December,Mississippi,702
+77,2023,December,Mississippi,633
+78,2021,December,Montana,189
+79,2022,December,Montana,191
+80,2023,December,Montana,184
+81,2021,December,North Carolina,3900
+82,2022,December,North Carolina,4255
+83,2023,December,North Carolina,3489
+84,2021,December,North Dakota,136
+85,2022,December,North Dakota,141
+86,2023,December,North Dakota,127
+87,2021,December,Nebraska,218
+88,2022,December,Nebraska,223
+89,2023,December,Nebraska,171
+90,2021,December,New Hampshire,433
+91,2022,December,New Hampshire,484
+92,2023,December,New Hampshire,430
+93,2021,December,New Jersey,3009
+94,2022,December,New Jersey,2945
+95,2023,December,New Jersey,2667
+96,2021,December,New Mexico,1040
+97,2022,December,New Mexico,1007
+98,2023,December,New Mexico,994
+99,2021,December,Nevada,1039
+100,2022,December,Nevada,1127
+101,2023,December,Nevada,1400
+102,2021,December,New York,3170
+103,2022,December,New York,3401
+104,2023,December,New York,3408
+105,2021,December,Ohio,5405
+106,2022,December,Ohio,5144
+107,2023,December,Ohio,4745
+108,2021,December,Oklahoma,934
+109,2022,December,Oklahoma,1183
+110,2023,December,Oklahoma,1258
+111,2021,December,Oregon,1181
+112,2022,December,Oregon,1387
+113,2023,December,Oregon,1851
+114,2021,December,Pennsylvania,5444
+115,2022,December,Pennsylvania,5212
+116,2023,December,Pennsylvania,4746
+117,2021,December,Rhode Island,460
+118,2022,December,Rhode Island,452
+119,2023,December,Rhode Island,416
+120,2021,December,South Carolina,2166
+121,2022,December,South Carolina,2292
+122,2023,December,South Carolina,2153
+123,2021,December,South Dakota,101
+124,2022,December,South Dakota,84
+125,2023,December,South Dakota,84
+126,2021,December,Tennessee,3861
+127,2022,December,Tennessee,3862
+128,2023,December,Tennessee,3693
+129,2021,December,Texas,4912
+130,2022,December,Texas,5457
+131,2023,December,Texas,5727
+132,2021,December,United States,107573
+133,2022,December,United States,109413
+134,2023,December,United States,106876
+135,2021,December,Utah,675
+136,2022,December,Utah,646
+137,2023,December,Utah,698
+138,2021,December,Virginia,2603
+139,2022,December,Virginia,2491
+140,2023,December,Virginia,2452
+141,2021,December,Vermont,251
+142,2022,December,Vermont,266
+143,2023,December,Vermont,246
+144,2021,December,Washington,2264
+145,2022,December,Washington,2753
+146,2023,December,Washington,3512
+147,2021,December,Wisconsin,1759
+148,2022,December,Wisconsin,1780
+149,2023,December,Wisconsin,1744
+150,2021,December,West Virginia,1506
+151,2022,December,West Virginia,1318
+152,2023,December,West Virginia,1389
+153,2021,December,Wyoming,101
+154,2022,December,Wyoming,123
+155,2023,December,Wyoming,127
+156,2021,December,New York City,2775
+157,2022,December,New York City,3142
+158,2023,December,New York City,3111
