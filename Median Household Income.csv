@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 State name,2021 Median Household Income,2022 Median Household Income,2023 Median Household Income
 Alabama,"53,913","59,674","62,212"
 Alaska,"77,845","88,121","86,631"
@@ -53,6 +54,8 @@ Wisconsin,"67,125","70,996","74,631"
 Wyoming,"65,204","70,042","72,415"
 Puerto Rico,"22,237","24,112","25,621"
 =======
+=======
+>>>>>>> e81e96db26a42be803f8cc4a0afe69c407838347
 State name,2021 Median Household Income,2022 Median Household Income,2023 Median Household Income,Average
 Alabama,53913,59674,62212,58599.666666666664
 Alaska,77845,88121,86631,84199.0
@@ -106,4 +109,7 @@ West Virginia,51248,54329,55948,53841.666666666664
 Wisconsin,67125,70996,74631,70917.33333333333
 Wyoming,65204,70042,72415,69220.33333333333
 Puerto Rico,22237,24112,25621,23990.0
+<<<<<<< HEAD
 >>>>>>> 59453179884ba9b83b241b938aa2c12f901fe089
+=======
+>>>>>>> e81e96db26a42be803f8cc4a0afe69c407838347
